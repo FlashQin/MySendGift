@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_15617c11f74dad92a7b58f2b234de40d0cc1542b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_2344688b60349774c0c4d8c84e6176fb1a13d3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_61f3183a3f7795d9743998859f41092157512b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9c1ab0ec7426d7165c14aa5bb0f56a10f1676ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b8568611778c8decd8ba8fe3502d6aa1d271e8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_64a290ecd60cfd7520afc2ab1b7f85527b74668d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_97ec775b986eca3b01810afc12abd3247555cf34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d178d997d3d1f72d8d05bb8bb608544e46d84156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_004f6bf38612f5752760c571761f4cbe81626de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1d90efd2b7e88b9a562a3415c8a25cc1b308edeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_d13654a9e4eed4b80468faf10a9c881cf38d4105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_9f4d34ba2b6cd99b3cd2d31399494706b4611570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1073835daf68747f8caf71dcb4bd9da4ac1f9e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_8b2f7ccc84768a07d2fec0c4558c2c6a78d82406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\studioworkplace\GiftBoardDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_77fbf65c54e3dad1ad370df4d05e29d31878417d.jar" />
+    </item>
+
+</items>
